@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm Hung Nguyen - A web developer
+### I'm Hung Nguyen
 
 ![](https://komarev.com/ghpvc/?username=hunguet231&color=blueviolet)
 

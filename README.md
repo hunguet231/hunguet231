@@ -55,6 +55,17 @@ Frontend Developer with over 3 years of experience building web applications usi
 <div align="center">
   <img
     src="https://skillicons.dev/icons?i=javascript,typescript,html,css,tailwind,react,nextjs,vite,redux,materialui,nodejs,mongodb,mysql,redis,git,github,gitlab,postman,figma,aws,cloudflare,vercel,heroku,netlify,npm,yarn,pnpm,wordpress"
+    alt="languages-frameworks-tools"
+  />
+</div>
+
+<hr/>
+
+<h3 align="center">🏋🏻 My Contributions 🏋🏻</h3>
+<div align="center">
+  <img
+    alt="snake eating my contributions"
+    src="https://github.com/hunguet231/hunguet231/blob/output/github-snake-dark.svg"
   />
 </div>
 

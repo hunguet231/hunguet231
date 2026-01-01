@@ -65,7 +65,7 @@ Frontend Developer with over 3 years of experience building web applications usi
 <div align="center">
   <img
     alt="snake eating my contributions"
-    src="https://github.com/hunguet231/hunguet231/blob/output/github-snake-dark.svg"
+    src="https://github.com/hunguet231/hunguet231/blob/output/github-snake.svg"
   />
 </div>
 

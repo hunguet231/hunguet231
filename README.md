@@ -2,7 +2,7 @@
 
 ## Hi 👋🏻 I'm Hung
 
-Frontend Developer with over 3 years of experience building web applications using JavaScript, TypeScript, React.js, and Next.js, with hands-on experience in Express.js and MongoDB.
+Frontend Developer with over 4 years of experience building high-performance web applications using React, Next.js, and TypeScript.
 
 <h3 align="left">Connect with me 🫱🏻‍🫲🏻</h3>
 <p align="left">

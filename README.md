@@ -5,48 +5,13 @@
 Frontend Developer with over 4 years of experience building high-performance web applications using React, Next.js, and TypeScript.
 
 <h3 align="left">Connect with me 🫱🏻‍🫲🏻</h3>
-<p align="left">
-  <a href="https://github.com/hunguet231" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-      alt="hunguet231"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://linkedin.com/in/hunguet231" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="hunguet231"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://fb.com/hungnguyen2301" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="hungnguyen2301"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://hackerrank.com/hungUET231" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="hungUET231"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://leetcode.com/hunguet231" target="_blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="hunguet231"
-      height="30"
-      width="40"
-  /></a>
-</p>
+<table><tr>
+<td><a href="https://github.com/hunguet231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/></a></td>
+<td><a href="https://linkedin.com/in/hunguet231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
+<td><a href="https://fb.com/hungnguyen2301"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a></td>
+<td><a href="https://hackerrank.com/hungUET231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a></td>
+<td><a href="https://leetcode.com/hunguet231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a></td>
+</tr></table>
 
 <hr/>
 

@@ -2,16 +2,7 @@
 
 ## Hi 👋🏻 I'm Hung
 
-Frontend Developer with over 4 years of experience building high-performance web applications using React, Next.js, and TypeScript, with hands-on backend experience using Express.js and MongoDB.
-
-<h3 align="left">Connect with me 🫱🏻‍🫲🏻</h3>
-<table><tr>
-<td><a href="https://github.com/hunguet231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/></a></td>
-<td><a href="https://linkedin.com/in/hunguet231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a></td>
-<td><a href="https://fb.com/hungnguyen2301"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a></td>
-<td><a href="https://hackerrank.com/hungUET231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/></a></td>
-<td><a href="https://leetcode.com/hunguet231"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/></a></td>
-</tr></table>
+Software Engineer with over 5 years of experience building high-performance web applications using React, Next.js, and TypeScript, with hands-on backend experience using Express.js and MongoDB.
 
 <hr/>
 
